@@ -1,4 +1,4 @@
-# Oi, Sou o Johnson Gabriel
+# Oi, Sou Johnson Gabriel
 
 🚀 **Estudante de ADS | Programador Front-End**
 
