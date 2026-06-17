@@ -2,7 +2,7 @@
 
 🚀 **Estudante de ADS | Programador Front-End**
 
-construo **sites** e atuo com modelagem e gerenciamento de **banco de dados**
+Desenvolvimento Web | Modelagem e Administração de Banco de Dados (SQL/NoSQL)
 
 --- 
 
