@@ -6,7 +6,7 @@ construo **sites** e atuo com modelagem e gerenciamento de **banco de dados**
 
 --- 
 
-## 🛠️ Trabalho com
+## 🛠️ Stack
 
 ### Front end
 
