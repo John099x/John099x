@@ -36,5 +36,6 @@ construo **sites** e atuo com modelagem e gerenciamento de **banco de dados**
 ## 📊 GitHub Stats
 <p align="left">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John099x&layout=compact&theme=tokyonight" />
+    <br/>
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=John099x&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
